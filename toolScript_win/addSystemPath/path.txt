@@ -1,0 +1,5 @@
+G:\software\Program Files (x86) portable\_quickStart
+G:\software\Program_Files\anacoda3
+G:\software\Program_Files\anacoda3\Scripts
+G:\software\Program_Files\msys2\usr\bin
+G:\software\Program Files (x86) portable\_Reading_Editing\Pandoc

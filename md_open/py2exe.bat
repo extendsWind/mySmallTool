@@ -1,0 +1,1 @@
+pyinstaller -F ./md_open.py --noconsole --icon=md_open.ico

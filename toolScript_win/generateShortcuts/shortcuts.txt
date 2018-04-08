@@ -1,0 +1,11 @@
+G:\software\Program Files (x86) portable\_SmallTool\AutoHotkey_112209_x64\AutoHotkey.exe ahk
+G:\software\Program Files (x86) portable\_Programming\git\bin\git.exe git
+G:\software\Program Files (x86) portable\_Programming\git\bin\bash.exe bash
+G:\software\Program Files (x86) portable\GoldenDict\GoldenDict.exe gd
+G:\software\Program Files (x86) portable\_SmallTool\everything\Everything.exe ert
+G:\software\Program Files (x86) portable\_SmallTool\hugo_blog\hugo.exe hugo
+G:\software\Program Files (x86) portable\_Programming\intellij_idea_2017_2\bin\idea.exe idea
+G:\software\Program Files (x86) portable\_Reading_Editing\Pandoc\pandoc.exe pandoc
+G:\software\Program Files (x86) portable\_selfProgram\pomodoro\pomodoro.pyw pmdr
+G:\software\Program_Files\msys2\mingw64\bin\runemacs.exe emacs
+C:\Program Files (x86)\NoteExpress\NoteExpress.exe ne
