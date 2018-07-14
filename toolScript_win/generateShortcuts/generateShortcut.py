@@ -25,7 +25,7 @@ for line in shortcutFile:
 	if line == "" :
 		continue
 	shortcutName = line.split(" ")[-1].strip("\n")
-	targetFile = line[:-len(shortcutName)-2]
+	targetFile = line.strip("\n")[:-len(shortcutName)-1]
 	print(shortcutName)
 	print(targetFile)
 	createShortcut(targetFile, shortcutName)

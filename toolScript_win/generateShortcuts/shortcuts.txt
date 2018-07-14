@@ -9,3 +9,4 @@ G:\software\Program Files (x86) portable\_Reading_Editing\Pandoc\pandoc.exe pand
 G:\software\Program Files (x86) portable\_selfProgram\pomodoro\pomodoro.pyw pmdr
 G:\software\Program_Files\msys2\mingw64\bin\runemacs.exe emacs
 C:\Program Files (x86)\NoteExpress\NoteExpress.exe ne
+G:\software\Program Files (x86) portable\_SmallTool\ss\Shadowsocks-v4.0.10.exe ss
